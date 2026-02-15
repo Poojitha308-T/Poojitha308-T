@@ -1,92 +1,92 @@
-<h1 align="center">Hi, I'm <span style="color:#0A66C2;">Poojitha Thadiboyina</span> 👋</h1>
-
-<h3 align="center" style="color:#6C63FF;">
-Full Stack Web Developer | MCA | AI & Data Enthusiast
-</h3>
+<h1 align="center">Hi there, I'm Poojitha Thadiboyina 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Tenali,%20Andhra%20Pradesh-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-6C63FF?style=for-the-badge"/>
+Full Stack Web Developer | MCA | AI & Data Enthusiast
+</p>
+
+<p align="center">
+📍 Based in Tenali, Andhra Pradesh &nbsp; | &nbsp; 💻 Passionate about building scalable web applications
 </p>
 
 ---
 
-## 🧑‍💻 <span style="color:#6C63FF;">About Me</span>
+## 👩‍💻 About Me
 
-Passionate Full Stack Developer focused on building scalable web applications and AI-powered analytics systems.  
-Strong in frontend & backend technologies with experience in authentication systems, REST APIs, and real-time dashboards.
+Welcome to my GitHub profile!  
+I am a passionate Full Stack Developer with a strong background in web development and AI-powered systems. I enjoy working on both frontend and backend technologies and continuously explore new tools and frameworks.
 
-- 🚀 Building user-focused applications  
-- 📊 Interested in AI & data-driven systems  
-- 💡 Strong problem-solving mindset  
+- 🌱 Currently improving system design & backend architecture  
+- 🚀 Interested in AI-driven analytics and real-time applications  
+- 💡 Strong problem-solving and adaptability skills  
 
 ---
 
-# 🛠 <span style="color:#0A66C2;">Technologies & Tools</span>
+# 🛠 Technologies & Tools
 
 ## 💻 Languages
-
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/> HTML &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/> CSS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/> C &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/> Java &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/> SQL
 </p>
 
 ---
 
 ## ⚙️ Frameworks & Libraries
-
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/> Node.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28"/> Express.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28"/> Firebase &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28"/> PyTorch &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="28"/> Scikit-Learn
 </p>
 
 ---
 
 ## 🗄 Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="28"/> Firestore &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="28"/> Supabase
+</p>
+
+---
+
+# 🤝 Let's Connect
 
 <p>
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/poojitha-thadiboyina-970785322">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+  </a>
+  &nbsp; LinkedIn
+</p>
+
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="25"/>
+  &nbsp; poojithathadiboyina@gmail.com
 </p>
 
 ---
 
-# 🤝 <span style="color:#6C63FF;">Let's Connect</span>
+# 🚀 Projects
 
-<p align="center">
-<a href="https://www.linkedin.com/in/poojitha-thadiboyina-970785322">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🔹 AI-Powered Daily Time Tracking & Analytics Web App
+- Developed a full-stack time tracking web application with 24-hour (1440 minutes) validation logic, enabling users to log, manage,
+and analyze daily activities with automated remaining-time calculation.
+- Integrated Firebase Authentication and Firestore (NoSQL) to implement secure, user-specific data storage with structured date-wise
+collections and real-time synchronization.
+- Built a dynamic analytics dashboard with complete CRUD functionality, featuring category-wise breakdowns, activity insights,
+and interactive visualizations (pie/ bar charts) within a responsive UI. 
 
-<a href="mailto:poojithathadiboyina@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 🚀 <span style="color:#0A66C2;">Projects</span>
-
-### 🔹 AI-Powered Daily Time Tracking & Analytics Web App
-- 1440-minute validation logic  
-- Firebase Authentication + Firestore  
-- Full CRUD operations  
-- Interactive analytics dashboard  
-
-### 🔹 Traffic Speed Prediction (Deep Stacking Ensemble + GNN)
-- Reduced RMSE by 9–15%  
-- Graph Neural Networks for spatial-temporal modeling  
-- Feature optimization using Mutual Information  
-- Real-time Streamlit deployment  
+## 🔹 Traffic Speed Prediction (Deep Stacking Ensemble + GNN)
+- Developed a deep stacking ensemble model (XGBoost, Random Forest, Extra Trees + MLP) reducing RMSE by up to 9–15% over traditional ML and graph-based traffic forecasting models.
+- Integrated Graph Neural Networks (GNNs) to model spatial-temporal dependencies across 200+ traffic sensors (METR-LA), significantly improving short-term prediction accuracy.
+- Implemented Mutual Information–based feature optimization, enhancing generalization and minimizing overfitting in high dimensional time-series data.
+- Deployed a real-time Streamlit-based forecasting system supporting 15–60 minute horizons with live evaluation metrics (RMSE, MAE, R²) for ITS applications.
 
 ---
 
@@ -95,10 +95,10 @@ Strong in frontend & backend technologies with experience in authentication syst
 **Master of Computer Applications (MCA)**  
 Vignan's Lara Institute of Technology and Science  
 
-**Full Stack Web Development – Masai School**
+**Full Stack Web Development**  
+Masai School  
 
 ---
-
 <p align="center">
 ⭐ <b>Focused on building scalable web applications and AI-powered systems.</b>
 </p>
