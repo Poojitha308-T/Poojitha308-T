@@ -78,10 +78,14 @@ I am a passionate Full Stack Developer with a strong background in web developme
 - Interactive analytics dashboard  
 
 ## 🔹 Traffic Speed Prediction (Deep Stacking Ensemble + GNN)
-- Reduced RMSE by 9–15%  
-- Graph Neural Networks for spatial-temporal modeling  
-- Feature optimization using Mutual Information  
-- Real-time Streamlit deployment  
+- Developed a deep stacking ensemble model (XGBoost, Random Forest, Extra Trees + MLP) reducing RMSE by up to 9–15% over
+traditional ML and graph-based traffic forecasting models.
+- Integrated Graph Neural Networks (GNNs) to model spatial-temporal dependencies across 200+ traffic sensors (METR-LA),
+significantly improving short-term prediction accuracy.
+- Implemented Mutual Information–based feature optimization, enhancing generalization and minimizing overfitting in high
+dimensional time-series data.
+- Deployed a real-time Streamlit-based forecasting system supporting 15–60 minute horizons with live evaluation metrics (RMSE,
+MAE, R²) for ITS applications.
 
 ---
 
